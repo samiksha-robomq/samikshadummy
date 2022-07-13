@@ -1,0 +1,3 @@
+empid 104
+name samiksha
+position assoicate software engineer
